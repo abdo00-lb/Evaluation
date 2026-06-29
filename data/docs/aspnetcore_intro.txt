@@ -1,0 +1,1 @@
+ASP.NET Core is a cross-platform framework for building modern cloud-based web applications and APIs with .NET. It supports dependency injection, middleware, configuration, logging, and high-performance HTTP request processing.

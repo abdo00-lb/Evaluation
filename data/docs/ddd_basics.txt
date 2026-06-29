@@ -1,0 +1,1 @@
+Domain-Driven Design focuses on modeling software around business concepts. Common building blocks include entities, value objects, aggregates, repositories, and bounded contexts.

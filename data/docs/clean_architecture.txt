@@ -1,0 +1,1 @@
+Clean Architecture separates an application into layers such as Domain, Application, Infrastructure, and Presentation. Its goal is to keep business logic independent from frameworks, databases, and UI concerns.
